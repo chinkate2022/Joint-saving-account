@@ -9,10 +9,6 @@ The completed JointSavings Solidity smart contract.
 
 A folder named Execution_Results that contains at least eight images. These images should confirm that the deposit and withdrawal transactions, which are designed to test the JointSavings functionality in the JavaScript VM, worked as expected.
 
-Files
-Download the following files to help you get started:
-
-Module 20 Challenge files
 
 Instructions
 The steps for this Challenge are divided into the following sections:
