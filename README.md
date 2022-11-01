@@ -80,7 +80,7 @@ Test the deposit functionality of your smart contract by sending the following a
 
 Transaction 1: Send 1 ether as wei.
 
-![An image Joint saving account]
+![An image Joint saving account]https://github.com/chinkate2022/Joint-saving-account/blob/main/transaction1.png
 
 Transaction 2: Send 10 ether as wei.
 
