@@ -80,7 +80,7 @@ Test the deposit functionality of your smart contract by sending the following a
 
 Transaction 1: Send 1 ether as wei.
 
-![An image Joint saving account]https://github.com/chinkate2022/Joint-saving-account/blob/main/transaction1.png
+![An image Joint saving account](https://github.com/chinkate2022/Joint-saving-account/blob/main/transaction1.png)
 
 Transaction 2: Send 10 ether as wei.
 
@@ -88,7 +88,7 @@ Transaction 2: Send 10 ether as wei.
 
 Transaction 3: Send 5 ether.
 
-![An image Joint saving account]https://github.com/chinkate2022/Joint-saving-account/blob/main/Screenshot%20(15).png
+![An image Joint saving account](https://github.com/chinkate2022/Joint-saving-account/blob/main/Screenshot%20(15).png)
 
 NOTE
 Remembering how to convert ether to wei and vice versa can be challenging. So, you can use a website like Ethereum Unit ConverterLinks to an external site. to ease doing the conversion.
