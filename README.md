@@ -84,7 +84,7 @@ Transaction 1: Send 1 ether as wei.
 
 Transaction 2: Send 10 ether as wei.
 
-![An image Joint saving account]
+![An image Joint saving account](https://github.com/chinkate2022/Joint-saving-account/blob/main/Screenshot%20(17).png)
 
 Transaction 3: Send 5 ether.
 
